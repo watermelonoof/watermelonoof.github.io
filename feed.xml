@@ -3,7 +3,7 @@
     <title>My Works</title>
     <link href="https://works.watermelonice.xyz/feed.xml" rel="self" />
     <link href="https://works.watermelonice.xyz" />
-    <updated>2020-12-25T20:28:44+08:00</updated>
+    <updated>2020-12-26T00:54:48+08:00</updated>
     <author>
         <name>WatermelonIce</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://works.watermelonice.xyz/free-beta-extract-image-frame-from-video/"/>
         <id>https://works.watermelonice.xyz/free-beta-extract-image-frame-from-video/</id>
 
-        <updated>2020-12-25T20:28:44+08:00</updated>
+        <updated>2020-12-26T00:54:48+08:00</updated>
             <summary>
                 <![CDATA[
-                    IntroductionHi! This is a simple extension to extract a frame from a video :hugs: Hope you like it :slight_smile: This extension is still under development so there might be a bunch of bugs :sweat_smile: This extension is suggested by @eps_prieur:https://community.kodular.io/t/extract-an-image-from-a-video-not-thumbnail/91922 Basically, it generates an image&hellip;
+                    IntroductionHi! This is a simple extension to extract a frame from a video. Hope you like it 😉 This extension is still under development so there might be a bunch of bugs 😅 This extension is suggested by @eps_prieur:https://community.kodular.io/t/extract-an-image-from-a-video-not-thumbnail/91922 Basically, it generates an image and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h1 id="introduction">Introduction</h1>
-<p>Hi! This is a simple extension to extract a frame from a video :hugs: Hope you like it :slight_smile: This extension is still under development so there might be a bunch of bugs :sweat_smile: </p>
+<p>Hi! This is a simple extension to extract a frame from a video. Hope you like it 😉 This extension is still under development so there might be a bunch of bugs 😅</p>
 <p>This extension is suggested by @eps_prieur:
 <a href="https://community.kodular.io/t/extract-an-image-from-a-video-not-thumbnail/91922">https://community.kodular.io/t/extract-an-image-from-a-video-not-thumbnail/91922</a> </p>
 <p>Basically, it generates an image and temporarily stored in the external storage. It will be deleted once the application is stopped (OnDestroy)</p>
@@ -86,25 +86,31 @@
 <p>For options, here is a detailed documentation:</p>
 <details>
     <summary>Documentation</summary>
-> a hint on how the frame is found. Use  `OPTION_PREVIOUS_SYNC`  if one wants to retrieve a sync frame that has a timestamp earlier than or the same as timeUs. Use  `OPTION_NEXT_SYNC`  if one wants to retrieve a sync frame that has a timestamp later than or the same as timeUs. Use  `OPTION_CLOSEST_SYNC`  if one wants to retrieve a sync frame that has a timestamp closest to or the same as timeUs. Use  `OPTION_CLOSEST`  if one wants to retrieve a frame that may or may not be a sync frame but is closest to or the same as timeUs.  `OPTION_CLOSEST`  often has larger performance overhead compared to the other options if there is no sync frame located at timeUs. Value is either  `0`  or a combination of  `OPTION_PREVIOUS_SYNC` ,  `OPTION_NEXT_SYNC` ,  `OPTION_CLOSEST_SYNC` , and  `OPTION_CLOSEST`
+        <blockquote>
+            a hint on how the frame is found. Use  `OPTION_PREVIOUS_SYNC`  if one wants to retrieve a sync frame that has a timestamp earlier than or the same as timeUs. Use  `OPTION_NEXT_SYNC`  if one wants to retrieve a sync frame that has a timestamp later than or the same as timeUs. Use  `OPTION_CLOSEST_SYNC`  if one wants to retrieve a sync frame that has a timestamp closest to or the same as timeUs. Use  `OPTION_CLOSEST`  if one wants to retrieve a frame that may or may not be a sync frame but is closest to or the same as timeUs.  `OPTION_CLOSEST`  often has larger performance overhead compared to the other options if there is no sync frame located at timeUs. Value is either  `0`  or a combination of  `OPTION_PREVIOUS_SYNC` ,  `OPTION_NEXT_SYNC` ,  `OPTION_CLOSEST_SYNC` , and  `OPTION_CLOSEST` <br>
 
-<p>Reference: <a href="https://developer.android.com/reference/android/media/MediaMetadataRetriever#getFrameAtTime(long,%20int)">MediaMetadataRetriever | Android Developers</a></p>
+<p>Reference: <a href="https://developer.android.com/reference/android/media/MediaMetadataRetriever#getFrameAtTime(long,%20int)">MediaMetadataRetriever | Android Developers</a>
+    </blockquote></p>
 </details>
 
 <h1 id="change-log">Change Log</h1>
 <details>
     <summary>Beta 1.1</summary>
-- Added path customization
-- You can choose not to delete the images created
-- You can get a list of created list
+
+<ul>
+<li>Added path customization</li>
+<li>You can choose not to delete the images created</li>
+<li>You can get a list of created list</li>
+</ul>
 </details>
 
 
 <h1 id="download">Download</h1>
 <details>
 <summary>List of version(s)</summary>
-[Beta 1.1](https://community.kodular.io/uploads/short-url/eXeDqJ2CrDn6yHtdtEpOPkbt5lJ.aix)
-[Beta 1.0](https://community.kodular.io/uploads/short-url/eXeDqJ2CrDn6yHtdtEpOPkbt5lJ.aix)
+
+<p><a href="https://community.kodular.io/uploads/short-url/eXeDqJ2CrDn6yHtdtEpOPkbt5lJ.aix">Beta 1.1</a></p>
+<p><a href="https://community.kodular.io/uploads/short-url/eXeDqJ2CrDn6yHtdtEpOPkbt5lJ.aix">Beta 1.0</a></p>
 </details>
 
 <h1 id="reminder">Reminder</h1>
