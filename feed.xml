@@ -20,7 +20,7 @@
         <updated>2020-12-26T00:54:48+08:00</updated>
             <summary>
                 <![CDATA[
-                    IntroductionHi! This is a simple extension to extract a frame from a video. Hope you like it 😉 This extension is still under development so there might be a bunch of bugs 😅 This extension is suggested by @eps_prieur:https://community.kodular.io/t/extract-an-image-from-a-video-not-thumbnail/91922 Basically, it generates an image and&hellip;
+                    Introduction Hi! This is a simple extension to extract a frame from a video. Hope you like it 😉 This extension is still under development so there might be a bunch of bugs 😅 This extension is suggested by @eps_prieur: https://community.kodular.io/t/extract-an-image-from-a-video-not-thumbnail/91922 Basically, it generates an&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -96,20 +96,20 @@
 <h1 id="change-log">Change Log</h1>
 <details>
     <summary>Beta 1.1</summary>
+    
+- Added path customization
+- You can choose not to delete the images created
+- You can get a list of created list
 
-<ul>
-<li>Added path customization</li>
-<li>You can choose not to delete the images created</li>
-<li>You can get a list of created list</li>
-</ul>
 </details>
 
 
 <h1 id="download">Download</h1>
 <details>
 <summary>List of version(s)</summary>
+    
+[Beta 1.1](https://community.kodular.io/uploads/short-url/eXeDqJ2CrDn6yHtdtEpOPkbt5lJ.aix)
 
-<p><a href="https://community.kodular.io/uploads/short-url/eXeDqJ2CrDn6yHtdtEpOPkbt5lJ.aix">Beta 1.1</a></p>
 <p><a href="https://community.kodular.io/uploads/short-url/eXeDqJ2CrDn6yHtdtEpOPkbt5lJ.aix">Beta 1.0</a></p>
 </details>
 
@@ -144,7 +144,7 @@
         <updated>2020-12-25T20:22:56+08:00</updated>
             <summary>
                 <![CDATA[
-                    SliderTools-AI2-Kodular-Extension Some useful feature for sliders in AI2 and its disturbution. The Error Ocuured event will only return exception error. Github Kodular CommunityMIT AI2 Community
+                    SliderTools-AI2-Kodular-Extension Some useful feature for sliders in AI2 and its disturbution. The Error Ocuured event will only return exception error. Github Kodular Community MIT AI2 Community 
                 ]]>
             </summary>
         <content type="html">
@@ -186,7 +186,7 @@
         <updated>2020-12-25T20:15:30+08:00</updated>
             <summary>
                 <![CDATA[
-                    IntroductionHi there! Today I am going to publish my third extension - BrightnessToolsA simple extension to set your brightness! :iphone: :bulb: You need to grant WRITE_SETTINGS permission.For more please see this postTo do it, please see this post for an example. https://community.kodular.io/t/free-brightnesstools-set-brightness-of-your-phone/83912 https://community.kodular.io/t/free-brightnesstools-set-brightness-of-your-phone/83912/38?u=watermelonice If you&hellip;
+                    Introduction Hi there! Today I am going to publish my third extension - BrightnessTools A simple extension to set your brightness! :iphone: :bulb: You need to grant WRITE_SETTINGS permission. For more please see this post To do it, please see this post for an example.
                 ]]>
             </summary>
         <content type="html">
@@ -233,7 +233,7 @@ To do it, please see <a href="https://community.kodular.io/t/free-brightnesstool
         <updated>2020-12-25T19:59:19+08:00</updated>
             <summary>
                 <![CDATA[
-                    DynamicVariables-Kodular-AI2-ExtensionSimple extension for adding dynamic variables in AI2 and its distributions. Github No change log yet ;) Kodular CommunityMIT AI2 Community
+                    DynamicVariables-Kodular-AI2-Extension Simple extension for adding dynamic variables in AI2 and its distributions. Github No change log yet ;) Kodular Community MIT AI2 Community 
                 ]]>
             </summary>
         <content type="html">
@@ -267,7 +267,7 @@ To do it, please see <a href="https://community.kodular.io/t/free-brightnesstool
         <updated>2020-12-25T19:59:48+08:00</updated>
             <summary>
                 <![CDATA[
-                    IntroductionHi, today I am presenting you my very first published extension - MaxMinToolsThis extension is simple, to get the minimum/maximum value of a list. This is my first extension, so if there is any error please let me know Github People in Kodular Community:Mohamed_Tamer, helped&hellip;
+                    Introduction Hi, today I am presenting you my very first published extension - MaxMinTools This extension is simple, to get the minimum/maximum value of a list. This is my first extension, so if there is any error please let me know Github People in Kodular&hellip;
                 ]]>
             </summary>
         <content type="html">
