@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Bryan Li</title>
-    <link href="https://watermelonoof.github.io/watermelonoof.github.io/feed.xml" rel="self" />
-    <link href="https://watermelonoof.github.io/watermelonoof.github.io" />
+    <link href="https://watermelonoof.github.io/feed.xml" rel="self" />
+    <link href="https://watermelonoof.github.io" />
     <updated>2023-11-03T18:54:08+08:00</updated>
     <author>
         <name>Bryan Li</name>
     </author>
-    <id>https://watermelonoof.github.io/watermelonoof.github.io</id>
+    <id>https://watermelonoof.github.io</id>
 
     <entry>
         <title>[FREE] [BETA] Extract image frame from video</title>
         <author>
             <name>Bryan Li</name>
         </author>
-        <link href="https://watermelonoof.github.io/watermelonoof.github.io/free-beta-extract-image-frame-from-video/"/>
-        <id>https://watermelonoof.github.io/watermelonoof.github.io/free-beta-extract-image-frame-from-video/</id>
+        <link href="https://watermelonoof.github.io/free-beta-extract-image-frame-from-video/"/>
+        <id>https://watermelonoof.github.io/free-beta-extract-image-frame-from-video/</id>
 
         <updated>2023-11-03T18:54:08+08:00</updated>
             <summary>
@@ -136,8 +136,8 @@ Reference: [MediaMetadataRetriever | Android Developers](https://developer.andro
         <author>
             <name>Bryan Li</name>
         </author>
-        <link href="https://watermelonoof.github.io/watermelonoof.github.io/free-open-source-slidertools-bit-of-useful-feature-for-sliders/"/>
-        <id>https://watermelonoof.github.io/watermelonoof.github.io/free-open-source-slidertools-bit-of-useful-feature-for-sliders/</id>
+        <link href="https://watermelonoof.github.io/free-open-source-slidertools-bit-of-useful-feature-for-sliders/"/>
+        <id>https://watermelonoof.github.io/free-open-source-slidertools-bit-of-useful-feature-for-sliders/</id>
 
         <updated>2023-11-03T18:53:00+08:00</updated>
             <summary>
@@ -149,8 +149,8 @@ Reference: [MediaMetadataRetriever | Android Developers](https://developer.andro
             <![CDATA[
                 <p>With some useful features for sliders in AI2 and its disturbution.</p>
 <h2 id="documentation">Documentation</h2>
-<p><figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/4/Screenshot-2020-12-25-202157.png" alt="Image description" width="1142" height="627"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202157-xs.png 300w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202157-sm.png 480w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202157-md.png 768w"></figure>
-<figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/4/Screenshot-2020-12-25-202210-2.png" alt="Image description" width="1146" height="747"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202210-2-xs.png 300w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202210-2-sm.png 480w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202210-2-md.png 768w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/media/posts/4/Screenshot-2020-12-25-202157.png" alt="Image description" width="1142" height="627"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202157-xs.png 300w ,https://watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202157-sm.png 480w ,https://watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202157-md.png 768w"></figure>
+<figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/media/posts/4/Screenshot-2020-12-25-202210-2.png" alt="Image description" width="1146" height="747"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202210-2-xs.png 300w ,https://watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202210-2-sm.png 480w ,https://watermelonoof.github.io/media/posts/4/responsive/Screenshot-2020-12-25-202210-2-md.png 768w"></figure></p>
 <h2 id="errors">Errors</h2>
 <p>The Error Ocuured event will only return exception error.</p>
 <h2 id="download">Download</h2>
@@ -185,8 +185,8 @@ Reference: [MediaMetadataRetriever | Android Developers](https://developer.andro
         <author>
             <name>Bryan Li</name>
         </author>
-        <link href="https://watermelonoof.github.io/watermelonoof.github.io/free-brightnesstools-set-brightness-of-your-phone/"/>
-        <id>https://watermelonoof.github.io/watermelonoof.github.io/free-brightnesstools-set-brightness-of-your-phone/</id>
+        <link href="https://watermelonoof.github.io/free-brightnesstools-set-brightness-of-your-phone/"/>
+        <id>https://watermelonoof.github.io/free-brightnesstools-set-brightness-of-your-phone/</id>
 
         <updated>2023-11-03T18:50:14+08:00</updated>
             <summary>
@@ -200,8 +200,8 @@ A simple extension to set your brightness!
                 <p>Hi there! This is my third extension - BrightnessTools
 A simple extension to set your brightness! </p>
 <h2 id="documentation">Documentation</h2>
-<p><figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/3/Screenshot-2020-12-25-201322.png" alt="Image description" width="1271" height="712"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201322-xs.png 300w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201322-sm.png 480w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201322-md.png 768w"></figure>
-<figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/3/Screenshot-2020-12-25-201445.png" alt="Image description" width="1267" height="826"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201445-xs.png 300w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201445-sm.png 480w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201445-md.png 768w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/media/posts/3/Screenshot-2020-12-25-201322.png" alt="Image description" width="1271" height="712"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201322-xs.png 300w ,https://watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201322-sm.png 480w ,https://watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201322-md.png 768w"></figure>
+<figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/media/posts/3/Screenshot-2020-12-25-201445.png" alt="Image description" width="1267" height="826"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201445-xs.png 300w ,https://watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201445-sm.png 480w ,https://watermelonoof.github.io/media/posts/3/responsive/Screenshot-2020-12-25-201445-md.png 768w"></figure></p>
 <blockquote>
 <p>You need to grant WRITE_SETTINGS permission.
 For more please see <a href="https://community.kodular.io/t/free-brightnesstools-set-brightness-of-your-phone/83912/6?u=watermelonice">this post</a>
@@ -229,8 +229,8 @@ To do it, please see <a href="https://community.kodular.io/t/free-brightnesstool
         <author>
             <name>Bryan Li</name>
         </author>
-        <link href="https://watermelonoof.github.io/watermelonoof.github.io/free-open-source-dynamic-variables-create-dynamic-variables/"/>
-        <id>https://watermelonoof.github.io/watermelonoof.github.io/free-open-source-dynamic-variables-create-dynamic-variables/</id>
+        <link href="https://watermelonoof.github.io/free-open-source-dynamic-variables-create-dynamic-variables/"/>
+        <id>https://watermelonoof.github.io/free-open-source-dynamic-variables-create-dynamic-variables/</id>
 
         <updated>2023-11-03T18:53:40+08:00</updated>
             <summary>
@@ -242,10 +242,10 @@ To do it, please see <a href="https://community.kodular.io/t/free-brightnesstool
             <![CDATA[
                 <p>Extension for adding dynamic variables in AI2 and its distributions. </p>
 <h2 id="documentation">Documentation</h2>
-<p><figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/1.png" alt="1" width="1152" height="1000"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/1-xs.png 300w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/1-sm.png 480w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/1-md.png 768w"></figure>
-<figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/2.png" alt="2" width="1152" height="842"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/2-xs.png 300w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/2-sm.png 480w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/2-md.png 768w"></figure>
-<figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/3.png" alt="3" width="1152" height="951"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/3-xs.png 300w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/3-sm.png 480w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/3-md.png 768w"></figure>
-<figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/4-2.png" alt="4" width="1153" height="857"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/4-2-xs.png 300w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/4-2-sm.png 480w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/2/responsive/4-2-md.png 768w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/media/posts/2/1.png" alt="1" width="1152" height="1000"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/media/posts/2/responsive/1-xs.png 300w ,https://watermelonoof.github.io/media/posts/2/responsive/1-sm.png 480w ,https://watermelonoof.github.io/media/posts/2/responsive/1-md.png 768w"></figure>
+<figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/media/posts/2/2.png" alt="2" width="1152" height="842"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/media/posts/2/responsive/2-xs.png 300w ,https://watermelonoof.github.io/media/posts/2/responsive/2-sm.png 480w ,https://watermelonoof.github.io/media/posts/2/responsive/2-md.png 768w"></figure>
+<figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/media/posts/2/3.png" alt="3" width="1152" height="951"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/media/posts/2/responsive/3-xs.png 300w ,https://watermelonoof.github.io/media/posts/2/responsive/3-sm.png 480w ,https://watermelonoof.github.io/media/posts/2/responsive/3-md.png 768w"></figure>
+<figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/media/posts/2/4-2.png" alt="4" width="1153" height="857"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/media/posts/2/responsive/4-2-xs.png 300w ,https://watermelonoof.github.io/media/posts/2/responsive/4-2-sm.png 480w ,https://watermelonoof.github.io/media/posts/2/responsive/4-2-md.png 768w"></figure></p>
 <h2 id="download">Download</h2>
 <p><a href="https://github.com/watermelonoof/DynamicVariables-Kodular-AI2-Extension/releases">v1.0</a></p>
 <h2 id="changelog">Changelog</h2>
@@ -263,8 +263,8 @@ To do it, please see <a href="https://community.kodular.io/t/free-brightnesstool
         <author>
             <name>Bryan Li</name>
         </author>
-        <link href="https://watermelonoof.github.io/watermelonoof.github.io/free-open-source-maxmin-value-of-list-my-first-extension/"/>
-        <id>https://watermelonoof.github.io/watermelonoof.github.io/free-open-source-maxmin-value-of-list-my-first-extension/</id>
+        <link href="https://watermelonoof.github.io/free-open-source-maxmin-value-of-list-my-first-extension/"/>
+        <id>https://watermelonoof.github.io/free-open-source-maxmin-value-of-list-my-first-extension/</id>
 
         <updated>2023-11-03T18:54:06+08:00</updated>
             <summary>
@@ -279,7 +279,7 @@ This extension is made to get the minimum/maximum value of a list.
 This extension is made to get the minimum/maximum value of a list. </p>
 <p>This is my first extension, so if there is any error please let me know.</p>
 <h2 id="blocks">Blocks</h2>
-<p><figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/1/642730f1f1aac6ec84949a8dbfe17ab175357051.png" alt="blocks" width="298" height="438"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/watermelonoof.github.io/media/posts/1/responsive/642730f1f1aac6ec84949a8dbfe17ab175357051-xs.png 300w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/1/responsive/642730f1f1aac6ec84949a8dbfe17ab175357051-sm.png 480w ,https://watermelonoof.github.io/watermelonoof.github.io/media/posts/1/responsive/642730f1f1aac6ec84949a8dbfe17ab175357051-md.png 768w"></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://watermelonoof.github.io/media/posts/1/642730f1f1aac6ec84949a8dbfe17ab175357051.png" alt="blocks" width="298" height="438"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://watermelonoof.github.io/media/posts/1/responsive/642730f1f1aac6ec84949a8dbfe17ab175357051-xs.png 300w ,https://watermelonoof.github.io/media/posts/1/responsive/642730f1f1aac6ec84949a8dbfe17ab175357051-sm.png 480w ,https://watermelonoof.github.io/media/posts/1/responsive/642730f1f1aac6ec84949a8dbfe17ab175357051-md.png 768w"></figure></p>
 <h2 id="documentation">Documentation:</h2>
 <table>
 <thead>
