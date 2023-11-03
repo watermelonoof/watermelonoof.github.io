@@ -1,27 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://watermelonoof.github.io/showcase/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://watermelonoof.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://watermelonoof.github.io/showcase/</loc>
+<loc>https://watermelonoof.github.io/</loc>
 </url>
 <url>
-<loc>https://watermelonoof.github.io/showcase/free-beta-extract-image-frame-from-video/</loc>
-<lastmod>2020-12-26T00:54:48+08:00</lastmod>
+<loc>https://watermelonoof.github.io/free-beta-extract-image-frame-from-video/</loc>
+<lastmod>2023-11-03T18:54:08+08:00</lastmod>
 </url>
 <url>
-<loc>https://watermelonoof.github.io/showcase/free-brightnesstools-set-brightness-of-your-phone/</loc>
-<lastmod>2020-12-25T20:15:30+08:00</lastmod>
+<loc>https://watermelonoof.github.io/free-brightnesstools-set-brightness-of-your-phone/</loc>
+<lastmod>2023-11-03T18:50:14+08:00</lastmod>
+<image:image>
+<image:loc>https://watermelonoof.github.io/media/posts/3/Screenshot-2020-12-25-201322.png</image:loc>
+<image:title><![CDATA[Image description]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://watermelonoof.github.io/media/posts/3/Screenshot-2020-12-25-201445.png</image:loc>
+<image:title><![CDATA[Image description]]></image:title>
+</image:image>
 </url>
 <url>
-<loc>https://watermelonoof.github.io/showcase/free-open-source-dynamic-variables-create-dynamic-variables/</loc>
-<lastmod>2020-12-25T19:59:19+08:00</lastmod>
+<loc>https://watermelonoof.github.io/free-open-source-dynamic-variables-create-dynamic-variables/</loc>
+<lastmod>2023-11-03T18:53:40+08:00</lastmod>
+<image:image>
+<image:loc>https://watermelonoof.github.io/media/posts/2/1.png</image:loc>
+<image:title><![CDATA[1]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://watermelonoof.github.io/media/posts/2/2.png</image:loc>
+<image:title><![CDATA[2]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://watermelonoof.github.io/media/posts/2/3.png</image:loc>
+<image:title><![CDATA[3]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://watermelonoof.github.io/media/posts/2/4-2.png</image:loc>
+<image:title><![CDATA[4]]></image:title>
+</image:image>
 </url>
 <url>
-<loc>https://watermelonoof.github.io/showcase/free-open-source-maxmin-value-of-list-my-first-extension/</loc>
-<lastmod>2020-12-25T19:59:48+08:00</lastmod>
+<loc>https://watermelonoof.github.io/free-open-source-maxmin-value-of-list-my-first-extension/</loc>
+<lastmod>2023-11-03T18:54:06+08:00</lastmod>
+<image:image>
+<image:loc>https://watermelonoof.github.io/media/posts/1/642730f1f1aac6ec84949a8dbfe17ab175357051.png</image:loc>
+<image:title><![CDATA[blocks]]></image:title>
+</image:image>
 </url>
 <url>
-<loc>https://watermelonoof.github.io/showcase/free-open-source-slidertools-bit-of-useful-feature-for-sliders/</loc>
-<lastmod>2020-12-25T20:22:56+08:00</lastmod>
+<loc>https://watermelonoof.github.io/free-open-source-slidertools-bit-of-useful-feature-for-sliders/</loc>
+<lastmod>2023-11-03T18:53:00+08:00</lastmod>
+<image:image>
+<image:loc>https://watermelonoof.github.io/media/posts/4/Screenshot-2020-12-25-202157.png</image:loc>
+<image:title><![CDATA[Image description]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://watermelonoof.github.io/media/posts/4/Screenshot-2020-12-25-202210-2.png</image:loc>
+<image:title><![CDATA[Image description]]></image:title>
+</image:image>
 </url>
 </urlset>
