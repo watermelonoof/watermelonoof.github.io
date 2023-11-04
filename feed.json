@@ -1,14 +1,29 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Bryan Li",
+    "title": "Bryan Li&#x27;s Portfolio",
     "description": "",
     "home_page_url": "https://watermelonoof.github.io",
     "feed_url": "https://watermelonoof.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://watermelonoof.github.io/media/website/Cicular_Anime_Watermelon.png",
     "author": {
         "name": "Bryan Li"
     },
     "items": [
+        {
+            "id": "https://watermelonoof.github.io/free-auto-complete-ilearner-script/",
+            "url": "https://watermelonoof.github.io/free-auto-complete-ilearner-script/",
+            "title": "[FREE] Auto-complete iLearner Script",
+            "summary": "The infamous Chinese iLeaner platform (智X中文平台) has been a headache for a lot of students in HK and luckily, the&hellip;",
+            "content_html": "<p>The infamous Chinese iLeaner platform (智X中文平台) has been a headache for a lot of students in HK and luckily, the website is very much unmaintained that MC answers can be fetched without submitting the page with <code>get_MC_ans()</code>. Using this exploit we can utilise the answers and fill in the answers directly which means we can automate the whole process. I decided to code a userscript (Violentmonkey) as it would be compatible with most browsers and it requires less work :)</p>\n<p>The link to the source code: <a href=\"https://github.com/watermelonoof/AutoCompleteiLearner\">https://github.com/watermelonoof/AutoCompleteiLearner</a></p>\n<h2 id=\"video-tutorial\">Video tutorial</h2>\n<p><a href=\"https://www.youtube.com/watch?v=cMhIG1ozJfU\">Video tutorial</a></p>\n<h2 id=\"installation\">Installation</h2>\n<ol>\n<li>Download the file from <a href=\"https://github.com/watermelonoof/AutoCompleteiLearner/releases\">release page</a> or <a href=\"https://github.com/watermelonoof/AutoCompleteiLearner/releases/latest/download/autocomplete-i-learner.user.js\">link here</a></li>\n<li>Install Violentmonkey extension on Chrome <a href=\"https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag\">link here</a></li>\n<li>Click <code>Manage extension</code>, turn on <code>Allow access to file URLs</code></li>\n<li>Drag and drop the file from <strong>step 1</strong> onto Chrome</li>\n<li>Open 智X中文平台. If the installation is successful you should see a panel saying the plugin is activated as shown below<br/><br/>\n<figure class=\"post__image\"><img loading=\"lazy\" src=\"https://raw.githubusercontent.com/watermelonoof/AutoCompleteiLearner/main/images/activated.png\" alt=\"Plugin activated\"  data-is-external-image=\"true\"></figure></li>\n</ol>\n<h2 id=\"usage\">Usage</h2>\n<ol>\n<li>Login to your account</li>\n<li>Navigate to <code>我的成績表</code></li>\n<li>Click <code>Start</code>. (This will open a new tab and start the process. If you need to stop it go back to panel and click <code>Stop</code>. Closing it will only cause it to start completing the next task)</li>\n<li>If the current <code>我的成績表</code> page has all tasks completed go to the next page and repeat step 3.</li>\n<li>(Optional) You can enable a randomised delay to avoid suspicious activity</li>\n</ol>\n<h2 id=\"note\">Note</h2>\n<ol>\n<li>To click the <code>Manage extension</code>: click on the puzzle icon, find Violentmonkey, click the icon with three dots.</li>\n<li>For non-mcq please complete manually, submit and go to the next page and the plugin will continue working; if it is the last exercise page, close the tab upon completion</li>\n</ol>\n<h2 id=\"uninstallation\">Uninstallation</h2>\n<p>Simply disable / delete the extension</p>\n",
+            "author": {
+                "name": "Bryan Li"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-05T01:46:35+08:00",
+            "date_modified": "2023-11-05T01:47:04+08:00"
+        },
         {
             "id": "https://watermelonoof.github.io/free-beta-extract-image-frame-from-video/",
             "url": "https://watermelonoof.github.io/free-beta-extract-image-frame-from-video/",
