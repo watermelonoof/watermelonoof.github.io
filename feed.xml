@@ -3,7 +3,7 @@
     <title>Bryan Li&#x27;s Portfolio</title>
     <link href="https://watermelonoof.github.io/feed.xml" rel="self" />
     <link href="https://watermelonoof.github.io" />
-    <updated>2023-12-27T05:08:31+08:00</updated>
+    <updated>2023-12-27T05:23:45+08:00</updated>
     <author>
         <name>Bryan Li</name>
     </author>
@@ -17,15 +17,15 @@
         <link href="https://watermelonoof.github.io/free-auto-complete-ilearner-script/"/>
         <id>https://watermelonoof.github.io/free-auto-complete-ilearner-script/</id>
 
-        <updated>2023-12-27T05:08:31+08:00</updated>
+        <updated>2023-12-27T05:23:45+08:00</updated>
             <summary>
                 <![CDATA[
-                    The infamous Chinese iLeaner platform (智X中文平台) has been a headache for a lot of students in HK and luckily, the&hellip;
+                    The Chinese iLeaner platform is very much unmaintained that MC answers can be fetched without submitting the page with get_MC_ans().
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>The infamous Chinese iLeaner platform (智X中文平台) has been a headache for a lot of students in HK and luckily, the website is very much unmaintained that MC answers can be fetched without submitting the page with <code>get_MC_ans()</code>. Using this exploit we can utilise the answers and fill in the answers directly which means we can automate the whole process. I decided to code a userscript (Violentmonkey) as it would be compatible with most browsers and it requires less work :)</p>
+                <p>The Chinese iLeaner platform is very much unmaintained that MC answers can be fetched without submitting the page with <code>get_MC_ans()</code>. Using this exploit we can utilise the answers and fill in the answers directly which means we can automate the whole process. I decided to code a userscript (Violentmonkey) as it would be compatible with most browsers and it requires less work :)</p>
 <h3 id="this-project-is-solely-for-educational-purposes-i-condemn-any-illegal-practices">This project is solely for educational purposes. I condemn any illegal practices.</h3>
 <p>The link to the source code: <a href="https://github.com/watermelonoof/AutoCompleteiLearner">https://github.com/watermelonoof/AutoCompleteiLearner</a></p>
 <h2 id="video-tutorial">Video tutorial</h2>
