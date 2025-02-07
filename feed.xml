@@ -3,7 +3,7 @@
     <title>Bryan Li&#x27;s Portfolio</title>
     <link href="https://watermelonoof.github.io/feed.xml" rel="self" />
     <link href="https://watermelonoof.github.io" />
-    <updated>2023-12-27T05:23:45+08:00</updated>
+    <updated>2023-12-26T21:23:45+00:00</updated>
     <author>
         <name>Bryan Li</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://watermelonoof.github.io/free-auto-complete-ilearner-script/"/>
         <id>https://watermelonoof.github.io/free-auto-complete-ilearner-script/</id>
 
-        <updated>2023-11-05T01:46:35+08:00</updated>
+        <updated>2023-11-04T17:46:35+00:00</updated>
             <summary>
                 <![CDATA[
                     The Chinese iLeaner platform is very much unmaintained that MC answers can be fetched without submitting the page with get_MC_ans().
@@ -62,7 +62,7 @@
         <link href="https://watermelonoof.github.io/free-open-source-wakeonlan-extension/"/>
         <id>https://watermelonoof.github.io/free-open-source-wakeonlan-extension/</id>
 
-        <updated>2022-05-25T01:38:00+08:00</updated>
+        <updated>2022-05-24T18:38:00+01:00</updated>
             <summary>
                 <![CDATA[
                     <p>A Wake-on-Lan Extension for App Inventor 2 and its distros. 
@@ -199,7 +199,7 @@ Inspired by <a href="http://www.jibble.org/wake-on-lan/">Simple Java Implementat
         <link href="https://watermelonoof.github.io/free-beta-extract-image-frame-from-video/"/>
         <id>https://watermelonoof.github.io/free-beta-extract-image-frame-from-video/</id>
 
-        <updated>2020-11-13T22:26:00+08:00</updated>
+        <updated>2020-11-13T14:26:00+00:00</updated>
             <summary>
                 <![CDATA[
                     <p>This is a simple extension to extract a frame from a video. This extension is still under development so there might be a bunch of bugs :/ 
@@ -326,7 +326,7 @@ Note: Quality of image is added. If you use png, you can ignore it.</p></details
         <link href="https://watermelonoof.github.io/free-open-source-slidertools-bit-of-useful-feature-for-sliders/"/>
         <id>https://watermelonoof.github.io/free-open-source-slidertools-bit-of-useful-feature-for-sliders/</id>
 
-        <updated>2020-10-02T16:40:00+08:00</updated>
+        <updated>2020-10-02T09:40:00+01:00</updated>
             <summary>
                 <![CDATA[
                     <p>With some useful features for sliders in AI2 and its disturbution.
@@ -501,7 +501,7 @@ Note: Quality of image is added. If you use png, you can ignore it.</p></details
         <link href="https://watermelonoof.github.io/free-brightnesstools-set-brightness-of-your-phone/"/>
         <id>https://watermelonoof.github.io/free-brightnesstools-set-brightness-of-your-phone/</id>
 
-        <updated>2020-09-16T19:06:00+08:00</updated>
+        <updated>2020-09-16T12:06:00+01:00</updated>
             <summary>
                 <![CDATA[
                     <p>Hi there! This is my third extension - BrightnessTools
@@ -699,7 +699,7 @@ A simple extension to set your brightness! </p><h2 id="documentation">Documentat
         <link href="https://watermelonoof.github.io/free-open-source-dynamic-variables-create-dynamic-variables/"/>
         <id>https://watermelonoof.github.io/free-open-source-dynamic-variables-create-dynamic-variables/</id>
 
-        <updated>2020-09-14T22:40:00+08:00</updated>
+        <updated>2020-09-14T15:40:00+01:00</updated>
             <summary>
                 <![CDATA[
                     <p>Extension for adding dynamic variables in AI2 and its distributions. 
@@ -996,7 +996,7 @@ A simple extension to set your brightness! </p><h2 id="documentation">Documentat
         <link href="https://watermelonoof.github.io/free-open-source-maxmin-value-of-list-my-first-extension/"/>
         <id>https://watermelonoof.github.io/free-open-source-maxmin-value-of-list-my-first-extension/</id>
 
-        <updated>2020-08-31T18:10:00+08:00</updated>
+        <updated>2020-08-31T11:10:00+01:00</updated>
             <summary>
                 <![CDATA[
                     <p>My very first publish of extention - MaxMinTools :D
